@@ -1,5 +1,5 @@
 # It-chatBot-using-llama2
-##Step 01- Create a conda enviroment after opening the repository
+## Step 01- Create a conda enviroment after opening the repository
 
 ~~~bash 
  conda create -n mchatbot python=3.8 -y
@@ -13,7 +13,7 @@
 ~~~ 
 
 
-##STEP 02- install the requirements
+## STEP 02- install the requirements
 ~~~bash 
  pip install -r requirements.txt
 
