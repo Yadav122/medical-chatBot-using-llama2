@@ -1,4 +1,4 @@
-# It-chatBot-using-llama2
+# Medical-chatBot-using-llama2
 ## Step 01- Create a conda enviroment after opening the repository
 
 ~~~bash 
